@@ -1,0 +1,5 @@
+D:\DATA\GitHub\OOPAndroid_dotNet\Chap4-1_Thread\SortArray\bin\Debug\SortArray.exe
+D:\DATA\GitHub\OOPAndroid_dotNet\Chap4-1_Thread\SortArray\bin\Debug\SortArray.pdb
+D:\DATA\GitHub\OOPAndroid_dotNet\Chap4-1_Thread\SortArray\obj\Debug\SortArray.csprojResolveAssemblyReference.cache
+D:\DATA\GitHub\OOPAndroid_dotNet\Chap4-1_Thread\SortArray\obj\Debug\SortArray.exe
+D:\DATA\GitHub\OOPAndroid_dotNet\Chap4-1_Thread\SortArray\obj\Debug\SortArray.pdb

@@ -37,7 +37,7 @@ namespace Thread_Using
             no_return.Start(10);
             Console.ReadKey();
             //对于多参数，有返回值的函数
-            var argu = new ThreadHelper();
+            var argu = new ThreadHelper();//定义一个线程参数辅助类
             argu.x = 23;
             argu.y = 33;
             Thread complex_func = new Thread(new ParameterizedThreadStart(show_func_2));
