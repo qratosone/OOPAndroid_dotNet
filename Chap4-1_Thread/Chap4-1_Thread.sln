@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thread_Using", "Thread_Usin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortArray", "SortArray\SortArray.csproj", "{16497CB1-28E4-431D-904A-2C814D7D4C61}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "updateUIThread", "updateUIThread\updateUIThread.csproj", "{65FA0805-FAE3-44F9-88E1-8359BDDF2479}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{16497CB1-28E4-431D-904A-2C814D7D4C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16497CB1-28E4-431D-904A-2C814D7D4C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16497CB1-28E4-431D-904A-2C814D7D4C61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65FA0805-FAE3-44F9-88E1-8359BDDF2479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65FA0805-FAE3-44F9-88E1-8359BDDF2479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65FA0805-FAE3-44F9-88E1-8359BDDF2479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65FA0805-FAE3-44F9-88E1-8359BDDF2479}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
