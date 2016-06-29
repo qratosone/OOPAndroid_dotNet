@@ -1,0 +1,8 @@
+D:\DATA\GitHub\OOPAndroid_dotNet\Chap4-1_Thread\BackgroundWorker\bin\Debug\BackgroundWorker.exe
+D:\DATA\GitHub\OOPAndroid_dotNet\Chap4-1_Thread\BackgroundWorker\bin\Debug\BackgroundWorker.pdb
+D:\DATA\GitHub\OOPAndroid_dotNet\Chap4-1_Thread\BackgroundWorker\obj\Debug\UsingBackgroundWorker.csprojResolveAssemblyReference.cache
+D:\DATA\GitHub\OOPAndroid_dotNet\Chap4-1_Thread\BackgroundWorker\obj\Debug\BackgroundWorker.Form1.resources
+D:\DATA\GitHub\OOPAndroid_dotNet\Chap4-1_Thread\BackgroundWorker\obj\Debug\BackgroundWorker.Properties.Resources.resources
+D:\DATA\GitHub\OOPAndroid_dotNet\Chap4-1_Thread\BackgroundWorker\obj\Debug\UsingBackgroundWorker.csproj.GenerateResource.Cache
+D:\DATA\GitHub\OOPAndroid_dotNet\Chap4-1_Thread\BackgroundWorker\obj\Debug\BackgroundWorker.exe
+D:\DATA\GitHub\OOPAndroid_dotNet\Chap4-1_Thread\BackgroundWorker\obj\Debug\BackgroundWorker.pdb
