@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter4-2_Socket", "Chapter4-2_Socket\Chapter4-2_Socket.csproj", "{4CB99F81-B86C-49CA-972D-FA1BC4B6FE83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyNetworkLibrary", "MyNetworkLibrary\MyNetworkLibrary.csproj", "{657EB90E-D146-4300-B4DD-47A0366DE496}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketServer", "SocketServer\SocketServer.csproj", "{74EB077F-FF1E-416A-A377-AECAFA11C04E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CB99F81-B86C-49CA-972D-FA1BC4B6FE83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CB99F81-B86C-49CA-972D-FA1BC4B6FE83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CB99F81-B86C-49CA-972D-FA1BC4B6FE83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CB99F81-B86C-49CA-972D-FA1BC4B6FE83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{657EB90E-D146-4300-B4DD-47A0366DE496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{657EB90E-D146-4300-B4DD-47A0366DE496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{657EB90E-D146-4300-B4DD-47A0366DE496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{657EB90E-D146-4300-B4DD-47A0366DE496}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74EB077F-FF1E-416A-A377-AECAFA11C04E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74EB077F-FF1E-416A-A377-AECAFA11C04E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74EB077F-FF1E-416A-A377-AECAFA11C04E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74EB077F-FF1E-416A-A377-AECAFA11C04E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

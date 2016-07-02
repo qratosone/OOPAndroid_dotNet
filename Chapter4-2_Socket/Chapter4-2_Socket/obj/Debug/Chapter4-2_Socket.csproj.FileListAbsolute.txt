@@ -1,0 +1,7 @@
+D:\DATA\GitHub\OOPAndroid_dotNet\Chapter4-2_Socket\Chapter4-2_Socket\bin\Debug\Chapter4-2_Socket.exe
+D:\DATA\GitHub\OOPAndroid_dotNet\Chapter4-2_Socket\Chapter4-2_Socket\bin\Debug\Chapter4-2_Socket.pdb
+D:\DATA\GitHub\OOPAndroid_dotNet\Chapter4-2_Socket\Chapter4-2_Socket\bin\Debug\MyNetworkLibrary.dll
+D:\DATA\GitHub\OOPAndroid_dotNet\Chapter4-2_Socket\Chapter4-2_Socket\bin\Debug\MyNetworkLibrary.pdb
+D:\DATA\GitHub\OOPAndroid_dotNet\Chapter4-2_Socket\Chapter4-2_Socket\obj\Debug\Chapter4-2_Socket.exe
+D:\DATA\GitHub\OOPAndroid_dotNet\Chapter4-2_Socket\Chapter4-2_Socket\obj\Debug\Chapter4-2_Socket.pdb
+D:\DATA\GitHub\OOPAndroid_dotNet\Chapter4-2_Socket\Chapter4-2_Socket\obj\Debug\Chapter4-2_Socket.csprojResolveAssemblyReference.cache

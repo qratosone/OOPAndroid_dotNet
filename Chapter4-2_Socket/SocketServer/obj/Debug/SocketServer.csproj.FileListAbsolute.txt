@@ -1,0 +1,7 @@
+D:\DATA\GitHub\OOPAndroid_dotNet\Chapter4-2_Socket\SocketServer\bin\Debug\SocketServer.exe
+D:\DATA\GitHub\OOPAndroid_dotNet\Chapter4-2_Socket\SocketServer\bin\Debug\SocketServer.pdb
+D:\DATA\GitHub\OOPAndroid_dotNet\Chapter4-2_Socket\SocketServer\bin\Debug\MyNetworkLibrary.dll
+D:\DATA\GitHub\OOPAndroid_dotNet\Chapter4-2_Socket\SocketServer\bin\Debug\MyNetworkLibrary.pdb
+D:\DATA\GitHub\OOPAndroid_dotNet\Chapter4-2_Socket\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+D:\DATA\GitHub\OOPAndroid_dotNet\Chapter4-2_Socket\SocketServer\obj\Debug\SocketServer.exe
+D:\DATA\GitHub\OOPAndroid_dotNet\Chapter4-2_Socket\SocketServer\obj\Debug\SocketServer.pdb
