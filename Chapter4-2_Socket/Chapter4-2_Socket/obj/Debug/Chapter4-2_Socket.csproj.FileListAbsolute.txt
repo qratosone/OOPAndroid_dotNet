@@ -5,3 +5,5 @@ D:\DATA\GitHub\OOPAndroid_dotNet\Chapter4-2_Socket\Chapter4-2_Socket\bin\Debug\M
 D:\DATA\GitHub\OOPAndroid_dotNet\Chapter4-2_Socket\Chapter4-2_Socket\obj\Debug\Chapter4-2_Socket.exe
 D:\DATA\GitHub\OOPAndroid_dotNet\Chapter4-2_Socket\Chapter4-2_Socket\obj\Debug\Chapter4-2_Socket.pdb
 D:\DATA\GitHub\OOPAndroid_dotNet\Chapter4-2_Socket\Chapter4-2_Socket\obj\Debug\Chapter4-2_Socket.csprojResolveAssemblyReference.cache
+C:\DATA\GitHub\OOPAndroid_dotNet\Chapter4-2_Socket\Chapter4-2_Socket\obj\Debug\Chapter4-2_Socket.exe
+C:\DATA\GitHub\OOPAndroid_dotNet\Chapter4-2_Socket\Chapter4-2_Socket\obj\Debug\Chapter4-2_Socket.pdb
