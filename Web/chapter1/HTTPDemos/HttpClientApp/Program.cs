@@ -39,7 +39,7 @@ namespace HttpClientApp
         static HttpClient getHttpClient()
         {
             var client = new HttpClient();
-            client.BaseAddress = new Uri("http://localhost:12623");
+            client.BaseAddress = new Uri("http://localhost:8080");
             //设定HTTP Header，指定期望接收JSON字符串
             client.DefaultRequestHeaders.Add("Accept", "application/json ");
             return client;

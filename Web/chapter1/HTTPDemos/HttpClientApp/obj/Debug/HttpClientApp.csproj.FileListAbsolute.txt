@@ -79,3 +79,13 @@ G:\MOOC\录课视频相关文件\第三系列\第1部分 起步\3 HTTP协议基�
 G:\MOOC\录课视频相关文件\第三系列\第1部分 起步\3 HTTP协议基础\HTTPDemos\HttpClientApp\obj\Debug\HttpClientApp.csprojResolveAssemblyReference.cache
 G:\MOOC\录课视频相关文件\第三系列\第1部分 起步\3 HTTP协议基础\HTTPDemos\HttpClientApp\obj\Debug\HttpClientApp.exe
 G:\MOOC\录课视频相关文件\第三系列\第1部分 起步\3 HTTP协议基础\HTTPDemos\HttpClientApp\obj\Debug\HttpClientApp.pdb
+D:\DATA\GitHub\OOPAndroid_dotNet\Web\chapter1\HTTPDemos\HttpClientApp\bin\Debug\HttpClientApp.exe.config
+D:\DATA\GitHub\OOPAndroid_dotNet\Web\chapter1\HTTPDemos\HttpClientApp\bin\Debug\HttpClientApp.exe
+D:\DATA\GitHub\OOPAndroid_dotNet\Web\chapter1\HTTPDemos\HttpClientApp\bin\Debug\HttpClientApp.pdb
+D:\DATA\GitHub\OOPAndroid_dotNet\Web\chapter1\HTTPDemos\HttpClientApp\bin\Debug\Newtonsoft.Json.dll
+D:\DATA\GitHub\OOPAndroid_dotNet\Web\chapter1\HTTPDemos\HttpClientApp\bin\Debug\System.Net.Http.Formatting.dll
+D:\DATA\GitHub\OOPAndroid_dotNet\Web\chapter1\HTTPDemos\HttpClientApp\bin\Debug\Newtonsoft.Json.xml
+D:\DATA\GitHub\OOPAndroid_dotNet\Web\chapter1\HTTPDemos\HttpClientApp\bin\Debug\System.Net.Http.Formatting.xml
+D:\DATA\GitHub\OOPAndroid_dotNet\Web\chapter1\HTTPDemos\HttpClientApp\obj\Debug\HttpClientApp.csprojResolveAssemblyReference.cache
+D:\DATA\GitHub\OOPAndroid_dotNet\Web\chapter1\HTTPDemos\HttpClientApp\obj\Debug\HttpClientApp.exe
+D:\DATA\GitHub\OOPAndroid_dotNet\Web\chapter1\HTTPDemos\HttpClientApp\obj\Debug\HttpClientApp.pdb
