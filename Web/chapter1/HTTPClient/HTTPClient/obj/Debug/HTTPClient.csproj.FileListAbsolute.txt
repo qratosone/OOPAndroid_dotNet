@@ -1,0 +1,6 @@
+D:\DATA\GitHub\OOPAndroid_dotNet\Web\chapter1\HTTPClient\HTTPClient\bin\Debug\HTTPClient.exe.config
+D:\DATA\GitHub\OOPAndroid_dotNet\Web\chapter1\HTTPClient\HTTPClient\bin\Debug\HTTPClient.exe
+D:\DATA\GitHub\OOPAndroid_dotNet\Web\chapter1\HTTPClient\HTTPClient\bin\Debug\HTTPClient.pdb
+D:\DATA\GitHub\OOPAndroid_dotNet\Web\chapter1\HTTPClient\HTTPClient\obj\Debug\HTTPClient.csprojResolveAssemblyReference.cache
+D:\DATA\GitHub\OOPAndroid_dotNet\Web\chapter1\HTTPClient\HTTPClient\obj\Debug\HTTPClient.exe
+D:\DATA\GitHub\OOPAndroid_dotNet\Web\chapter1\HTTPClient\HTTPClient\obj\Debug\HTTPClient.pdb
