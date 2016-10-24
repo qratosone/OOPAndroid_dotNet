@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:text="多Activity间信息交换"
+        />
+    <Button   android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="显示SecondActivity"
+        android:id="@+id/showSecondActivity"/>
+
+    <Button  android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="显示另一个Activity,并传一个字符串给它"
+        android:id="@+id/passInfomation"/>
+
+    <Button  android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="显示另一个Activity,之后取回结果"
+        android:id="@+id/getResult"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/tvResult"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout>

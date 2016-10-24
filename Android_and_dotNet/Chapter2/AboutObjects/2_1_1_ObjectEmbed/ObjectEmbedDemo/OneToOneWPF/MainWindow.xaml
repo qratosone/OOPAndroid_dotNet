@@ -1,0 +1,10 @@
+﻿<Window x:Class="OneToOneWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="149.833" Width="362.291">
+    <StackPanel HorizontalAlignment="Center">
+        <Button Content="Click Me!" FontSize="20" Margin="10" x:Name="btnClickMe"
+                Click="btnClickMe_Click"/>
+        <TextBlock Name="lblInfo" FontSize="20"/>
+    </StackPanel>
+</Window>
